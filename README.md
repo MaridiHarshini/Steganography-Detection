@@ -14,8 +14,6 @@ A Python-based steganography detection system developed to identify hidden infor
 - Secure data handling
 - Database integration for user management
 
-## Project Role
-Developer
 
 ## Duration
 2025 – 2026
